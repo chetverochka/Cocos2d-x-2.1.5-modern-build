@@ -21,4 +21,5 @@ Then go to `cocos2d-root-folder/projects/ProjectName/proj.win32` and run the .sl
 
 
 ![Cocos2d-x 2.1.5 Hello World](https://github.com/chetverochka/Cocos2d-x-2.1.5-modern-build/blob/main/HelloWorld.png)
+
 Have fun!
