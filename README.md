@@ -3,7 +3,7 @@
 The original version of cocos2d-x 2.1.5 compiles successfully in Visual Studio 16 2019.
 
 ## Toolkit
-> `Visual Studio 16 2019 (VS2022 also works),`
+> `Visual Studio 16 2019 (VS2022 also works)`
 > 
 > `Python 3.x`
 
