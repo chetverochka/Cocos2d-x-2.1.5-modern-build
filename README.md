@@ -17,7 +17,7 @@ Use the following arguments to create a project:
 ```
 -project <ProjectName> -package com.package.name -language [cpp]
 ```
-Then go to <cocos2d>/projects/<ProjectName>/proj.win32 and run the .sln file in Visual Studio 2019, then compile it successfully
+Then go to <cocos2d>/projects/ProjectName/proj.win32 and run the .sln file in Visual Studio 2019, then compile it successfully
 
 
 ![Cocos2d-x 2.1.5 Hello World](https://github.com/chetverochka/Cocos2d-x-2.1.5-modern-build/blob/main/HelloWorld.png)
